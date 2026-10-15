@@ -1,10 +1,3 @@
-//
-//  File.swift
-//  Vaani
-//
-//  Created by Harshit Gupta on 18/02/25.
-//
-
 import Foundation
 import SwiftUI
 
