@@ -1,6 +1,6 @@
 ## Vaani
 
-Vaani is an iOS app designed to help teens and young adults understand their bodies, periods, and reproductive health through **interactive stories**, a **Q&A chat**, and **personalized plans**.
+Vaani is an iOS application designed to help teens and young adults understand their bodies, periods, and reproductive health through **interactive stories**, a **Q&A chat**, and **personalized plans**.
 
 ### Screenshots
 
