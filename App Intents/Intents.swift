@@ -1,10 +1,3 @@
-//
-//  File.swift
-//  Vaani
-//
-//  Created by Harshit Gupta on 16/02/25.
-//
-
 import AppIntents
 
 struct StartGameIntent: AppIntent {
